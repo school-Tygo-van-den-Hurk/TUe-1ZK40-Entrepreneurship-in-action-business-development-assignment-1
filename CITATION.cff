@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/citation-file-format/citation-file-format/refs/heads/main/schema.json
+
+cff-version: 1.2.0
+message: 'If you use CFF in your research, please cite it using these metadata.'
+
+title: 'TU/e 1ZK30 Entrepreneurship in action: ideation - Personal-Reflection'
+abstract: "This the first assignment for '1ZK40 Entrepreneurship in action: business development' course."
+license: 'EPL-2.0'
+authors:
+  - given-names: Tygo
+    name-particle: van den
+    family-names: Hurk
+    orcid: https://orcid.org/0009-0003-4182-5076
+    email: t.j.f.h.v.d.hurk@student.tue.nl
+  - given-names: Merve
+    family-names: Kaya
+    email: m.kaya@student.tue.nl
+  - given-names: Selen
+    family-names: Guven
+    email: s.guven@student.tue.nl
+  - given-names: Simeon
+    family-names: Delev
+    email: s.delev@student.tue.nl
+  - given-names: Mike
+    family-names: Roelofs
+    email: m.roelofs1@student.tue.nl
